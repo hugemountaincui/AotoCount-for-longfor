@@ -1,0 +1,8 @@
+C:\Users\wo\source\repos\AutoCount2\bin\Debug\AutoCount2.exe
+C:\Users\wo\source\repos\AutoCount2\bin\Debug\AutoCount2.pdb
+C:\Users\wo\source\repos\AutoCount2\obj\Debug\AutoCount2.csprojAssemblyReference.cache
+C:\Users\wo\source\repos\AutoCount2\obj\Debug\AutoCount2.Form1.resources
+C:\Users\wo\source\repos\AutoCount2\obj\Debug\AutoCount2.Properties.Resources.resources
+C:\Users\wo\source\repos\AutoCount2\obj\Debug\AutoCount2.csproj.GenerateResource.cache
+C:\Users\wo\source\repos\AutoCount2\obj\Debug\AutoCount2.exe
+C:\Users\wo\source\repos\AutoCount2\obj\Debug\AutoCount2.pdb
